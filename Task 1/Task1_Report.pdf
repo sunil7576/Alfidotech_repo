@@ -1,0 +1,187 @@
+# ALFIDO TECH DATA ANALYTICS INTERNSHIP
+
+# Task 1: Customer Behavior Analysis Report
+
+## Prepared By
+
+**Sunil Sharma**
+Data Analytics Intern
+
+---
+
+# Objective
+
+The objective of this project is to analyze customer purchasing behavior, identify customer segments, understand product preferences, and generate actionable business insights that can help improve customer engagement, sales performance, and retention.
+
+---
+
+# Dataset Overview
+
+* **Dataset Name:** Customer Behavior Analysis
+* **Tool Used:** Microsoft Power BI
+* **Dataset Format:** CSV
+* **Analysis Type:** Customer Behavior & Purchase Pattern Analysis
+
+---
+
+# Data Preparation
+
+The dataset was cleaned and prepared before analysis.
+
+The following preprocessing steps were performed:
+
+* Imported the dataset into Microsoft Power BI.
+* Checked and corrected data types.
+* Removed duplicate records.
+* Verified missing values.
+* Created calculated measures for business KPIs.
+* Created customer segments (High, Medium, and Low Value).
+* Created customer age groups (Young, Middle Age, and Senior).
+
+---
+
+# Key Performance Indicators (KPIs)
+
+| KPI                   | Value       |
+| --------------------- | ----------- |
+| Total Revenue         | 110 Million |
+| Total Customers       | 40.35K      |
+| Total Returns         | 20K         |
+| Total Purchase Amount | 110 Million |
+
+---
+
+# Dashboard Visualizations
+
+## 1. Product Category Analysis
+
+A bar chart was created to compare total purchase amount across different product categories.
+
+**Observation**
+
+* Home category generated the highest purchase amount.
+* Electronics and Clothing categories also contributed significantly.
+* Books generated comparatively lower revenue.
+
+---
+
+## 2. Purchase Trend Analysis
+
+A line chart was created to analyze purchase trends over time.
+
+**Observation**
+
+* Sales remained relatively stable during most months.
+* A noticeable decline is observed towards the end of the timeline.
+
+---
+
+## 3. Payment Method Analysis
+
+A pie chart was used to understand customer payment preferences.
+
+**Observation**
+
+* Cash, Credit Card, and PayPal are almost equally preferred.
+* No single payment method dominates the transactions.
+
+---
+
+## 4. Customer Segment Analysis
+
+Customers were categorized into:
+
+* High Value
+* Medium Value
+* Low Value
+
+**Observation**
+
+* High Value customers contribute the largest share of purchases.
+* Medium Value customers form the second-largest group.
+* Low Value customers provide opportunities for targeted marketing.
+
+---
+
+## 5. Age Group Analysis
+
+Customers were grouped into:
+
+* Young
+* Middle Age
+* Senior
+
+**Observation**
+
+* Senior customers represent the highest proportion.
+* Middle Age customers also contribute significantly.
+* Young customers represent the smallest customer group.
+
+---
+
+## 6. Product Returns Analysis
+
+Returns were analyzed by product category.
+
+**Observation**
+
+* Return counts are fairly similar across categories.
+* Improving product quality and customer satisfaction can reduce return rates.
+
+---
+
+# Key Business Insights
+
+1. High Value customers contribute significantly to overall business performance.
+2. Home products generate the highest purchase amount.
+3. Customer transactions are well distributed across different payment methods.
+4. Sales show a decline towards the later period, indicating a need for retention strategies.
+5. Product returns remain considerable and should be reduced through better quality control.
+
+---
+
+# Business Recommendations
+
+### 1. Launch a Loyalty Program
+
+Reward high-value customers with exclusive offers, cashback, or membership benefits.
+
+### 2. Focus on High-Performing Categories
+
+Increase inventory and promotional campaigns for top-selling categories such as Home and Electronics.
+
+### 3. Target Low Value Customers
+
+Use personalized discounts and marketing campaigns to encourage repeat purchases.
+
+### 4. Reduce Product Returns
+
+Improve product quality, packaging, and customer support to lower return rates.
+
+### 5. Enhance Customer Retention
+
+Implement email marketing, personalized recommendations, and seasonal promotional campaigns to improve repeat purchases.
+
+---
+
+# Conclusion
+
+The Customer Behavior Analysis dashboard provides valuable insights into customer purchasing behavior, payment preferences, product performance, and customer segmentation. These findings can help Alfido Tech make informed business decisions, improve customer satisfaction, optimize marketing strategies, and increase overall revenue.
+
+---
+
+# Tools Used
+
+* Microsoft Power BI
+* CSV Dataset
+* DAX Measures
+* Power Query
+
+---
+
+# Deliverables
+
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshot
+* PDF Report
+* README.md
