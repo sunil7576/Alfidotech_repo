@@ -1,0 +1,187 @@
+# ALFIDO TECH DATA ANALYTICS INTERNSHIP
+
+# Task 2: Sales Performance Analysis Report
+
+## Prepared By
+
+**Sunil Sharma**
+Data Analytics Intern
+
+---
+
+# Objective
+
+The objective of this project is to analyze sales performance across different product categories, customer segments, regions, and time periods. The analysis helps identify sales trends, top-performing products, and regional performance while providing business recommendations for improving sales.
+
+---
+
+# Dataset Overview
+
+* **Dataset Name:** Superstore Sales Dataset
+* **Tool Used:** Microsoft Power BI
+* **Dataset Format:** CSV
+* **Analysis Type:** Sales Performance Analysis
+
+---
+
+# Data Preparation
+
+The following preprocessing steps were completed before analysis:
+
+* Imported the dataset into Microsoft Power BI.
+* Checked and corrected data types.
+* Removed duplicate records.
+* Verified missing values.
+* Created DAX measures for KPIs.
+* Built an interactive dashboard with slicers and charts.
+
+---
+
+# Key Performance Indicators (KPIs)
+
+| KPI             | Value        |
+| --------------- | ------------ |
+| Total Sales     | 2.26 Million |
+| Total Customers | 793          |
+| Total Orders    | 5,000        |
+| Average Sales   | 230.77       |
+
+---
+
+# Dashboard Visualizations
+
+## 1. Sales by Category
+
+A bar chart was created to compare sales across product categories.
+
+**Observation**
+
+* Technology generated the highest sales.
+* Furniture ranked second.
+* Office Supplies contributed the lowest sales among the three categories.
+
+---
+
+## 2. Sales by Region
+
+A pie chart was used to compare regional sales.
+
+**Observation**
+
+* West region generated the highest sales.
+* East region also contributed significantly.
+* Central and South regions generated comparatively lower sales.
+
+---
+
+## 3. Sales by Segment
+
+A donut chart was used to analyze customer segments.
+
+**Observation**
+
+* Consumer segment contributed the largest share of sales.
+* Corporate segment ranked second.
+* Home Office generated the least sales.
+
+---
+
+## 4. Sales Trend Analysis
+
+A line chart was created to analyze yearly sales performance.
+
+**Observation**
+
+* Sales showed a consistent upward trend over the years.
+* Business growth remained positive throughout the analyzed period.
+
+---
+
+## 5. Sales by Sub-Category
+
+A column chart was created to compare product sub-categories.
+
+**Observation**
+
+* Phones generated the highest sales.
+* Chairs and Storage also performed well.
+* Several sub-categories contributed relatively lower revenue.
+
+---
+
+## 6. Top Products Analysis
+
+A bar chart highlighted the top-selling products.
+
+**Observation**
+
+* A few products generated a significant portion of total revenue.
+* These products should receive higher inventory priority.
+
+---
+
+## 7. State-wise Sales Analysis
+
+A map visualization displayed sales distribution across different states.
+
+**Observation**
+
+* Sales are spread across multiple states, with some locations contributing significantly more revenue than others.
+
+---
+
+# Key Business Insights
+
+1. Technology products generate the highest sales revenue.
+2. Consumer customers contribute the largest share of total sales.
+3. West region performs better than the other regions.
+4. Sales have steadily increased over time, indicating healthy business growth.
+5. A small number of products contribute a large percentage of total sales.
+
+---
+
+# Business Recommendations
+
+### 1. Increase Inventory
+
+Maintain higher stock levels for top-performing products.
+
+### 2. Expand High-Performing Categories
+
+Invest more in Technology products through promotions and marketing.
+
+### 3. Focus on Regional Growth
+
+Strengthen sales strategies in Central and South regions.
+
+### 4. Customer Retention
+
+Offer loyalty rewards and personalized promotions to Consumer segment customers.
+
+### 5. Improve Product Portfolio
+
+Analyze low-performing products and redesign pricing or promotional strategies.
+
+---
+
+# Conclusion
+
+The Sales Performance Dashboard provides valuable insights into product performance, customer segments, regional sales, and business growth trends. The findings can help Alfido Tech make data-driven decisions to improve sales performance, customer satisfaction, and future business strategies.
+
+---
+
+# Tools Used
+
+* Microsoft Power BI
+* DAX
+* Power Query
+* CSV Dataset
+
+---
+
+# Deliverables
+
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshot
+* PDF Report
+* README.md
