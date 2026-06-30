@@ -1,0 +1,205 @@
+REPORT (PDF CONTENT)
+Employee Attrition Analysis for Alfido Tech
+1. Introduction
+
+Employee retention is a critical factor for organizational success. High employee attrition can lead to increased recruitment costs, loss of productivity, and reduced organizational performance. This project analyzes employee attrition data to identify workforce trends and provide recommendations for improving employee retention at Alfido Tech.
+
+2. Objective
+
+The primary objective of this analysis is to:
+
+Measure employee attrition levels.
+Identify factors influencing employee turnover.
+Analyze employee demographics and workplace characteristics.
+Provide actionable recommendations for improving retention.
+3. Dataset Overview
+
+The dataset contains information about 1470 employees and includes various demographic, professional, and satisfaction-related attributes.
+
+Key variables analyzed:
+
+Attrition
+Age
+Gender
+Department
+Job Role
+Monthly Income
+Job Satisfaction
+Overtime
+4. Data Cleaning and Preparation
+
+The following preprocessing steps were performed:
+
+Imported dataset into Power BI.
+Checked for missing values.
+Verified data types.
+Reviewed duplicate employee records.
+Created custom KPIs and calculated measures.
+
+The dataset was found suitable for analysis.
+
+5. Dashboard Summary
+
+The dashboard includes the following KPIs:
+
+KPI	Value
+Total Employees	1470
+Employees Left	237
+Attrition Rate	16.12%
+Average Age	36.92
+Average Monthly Income	6.50K
+
+Visualizations used:
+
+Attrition by Department
+Attrition by Job Role
+Overtime Impact on Attrition
+Employee Count by Gender
+Job Satisfaction and Attrition
+6. Key Findings
+Finding 1
+
+The overall employee attrition rate is approximately 16.12%.
+
+Finding 2
+
+Employees who work overtime are more likely to leave the organization.
+
+Finding 3
+
+Job satisfaction has a strong impact on employee retention.
+
+Finding 4
+
+Some departments experience higher attrition compared to others.REPORT (PDF CONTENT)
+Employee Attrition Analysis for Alfido Tech
+1. Introduction
+
+Employee retention is a critical factor for organizational success. High employee attrition can lead to increased recruitment costs, loss of productivity, and reduced organizational performance. This project analyzes employee attrition data to identify workforce trends and provide recommendations for improving employee retention at Alfido Tech.
+
+2. Objective
+
+The primary objective of this analysis is to:
+
+Measure employee attrition levels.
+Identify factors influencing employee turnover.
+Analyze employee demographics and workplace characteristics.
+Provide actionable recommendations for improving retention.
+3. Dataset Overview
+
+The dataset contains information about 1470 employees and includes various demographic, professional, and satisfaction-related attributes.
+
+Key variables analyzed:
+
+Attrition
+Age
+Gender
+Department
+Job Role
+Monthly Income
+Job Satisfaction
+Overtime
+4. Data Cleaning and Preparation
+
+The following preprocessing steps were performed:
+
+Imported dataset into Power BI.
+Checked for missing values.
+Verified data types.
+Reviewed duplicate employee records.
+Created custom KPIs and calculated measures.
+
+The dataset was found suitable for analysis.
+
+5. Dashboard Summary
+
+The dashboard includes the following KPIs:
+
+KPI	Value
+Total Employees	1470
+Employees Left	237
+Attrition Rate	16.12%
+Average Age	36.92
+Average Monthly Income	6.50K
+
+Visualizations used:
+
+Attrition by Department
+Attrition by Job Role
+Overtime Impact on Attrition
+Employee Count by Gender
+Job Satisfaction and Attrition
+6. Key Findings
+Finding 1
+
+The overall employee attrition rate is approximately 16.12%.
+
+Finding 2
+
+Employees who work overtime are more likely to leave the organization.
+
+Finding 3
+
+Job satisfaction has a strong impact on employee retention.
+
+Finding 4
+
+Some departments experience higher attrition compared to others.
+
+Finding 5
+
+Employee turnover varies significantly across different job roles.
+
+7. Recommendations
+Recommendation 1
+
+Implement workload management strategies to reduce excessive overtime.
+
+Recommendation 2
+
+Conduct quarterly employee satisfaction surveys and feedback sessions.
+
+Recommendation 3
+
+Develop employee recognition and engagement programs.
+
+Recommendation 4
+
+Provide clear career progression opportunities for employees.
+
+Recommendation 5
+
+Focus retention initiatives on departments and job roles with higher attrition rates.
+
+8. Conclusion
+
+The analysis indicates that employee attrition is influenced by factors such as overtime, job satisfaction, and departmental differences. By implementing targeted retention strategies and improving employee engagement, Alfido Tech can reduce employee turnover and improve workforce stability.
+
+Finding 5
+
+Employee turnover varies significantly across different job roles.
+
+7. Recommendations
+Recommendation 1
+
+Implement workload management strategies to reduce excessive overtime.
+
+Recommendation 2
+
+Conduct quarterly employee satisfaction surveys and feedback sessions.
+
+Recommendation 3
+
+Develop employee recognition and engagement programs.
+
+Recommendation 4
+
+Provide clear career progression opportunities for employees.
+
+Recommendation 5
+
+Focus retention initiatives on departments and job roles with higher attrition rates.
+
+8. Conclusion
+
+The analysis indicates that employee attrition is influenced by factors such as overtime, job satisfaction, and departmental differences. By implementing targeted retention strategies and improving employee engagement, Alfido Tech can reduce employee turnover and improve workforce stability.
